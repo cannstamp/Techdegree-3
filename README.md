@@ -1,1 +1,1 @@
-# Techdegree-3
+# Techdegree Project Three for Treehouse
